@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/spark2app_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/sparkapp/test/wc/WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkapp/test[0m
+[0m[[0mdebug[0m] [0m	  /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test[0m
+[0m[[0mdebug[0m] [0m	com/sparkapp/test/wc/WordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkapp[0m
+[0m[[0mdebug[0m] [0m	  /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp[0m
+[0m[[0mdebug[0m] [0m	com/sparkapp/test/wc[0m
+[0m[[0mdebug[0m] [0m	  /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/sparkapp/test/wc/WordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkapp/test/wc/WordCount.class[0m
+[0m[[0mdebug[0m] [0m	  /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

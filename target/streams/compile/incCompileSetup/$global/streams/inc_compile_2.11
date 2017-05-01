@@ -1,0 +1,147 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount$$anonfun$1.class
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount$$anonfun$2.class
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount$.class
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> /home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount.class
+binary dependencies:
+4 items
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> /home/siva/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> /home/siva/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> /home/siva/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> com.sparkapp.test.wc.WordCount
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> com.sparkapp.test.wc.WordCount$
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> com.sparkapp.test.wc.WordCount$$anonfun$1
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> com.sparkapp.test.wc.WordCount$$anonfun$2
+used names:
+57 items
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> <init>
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Any
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> AnyRef
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Array
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> ArrayOps
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Builder
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> DataFrame
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> DataFrameReader
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Dataset
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Encoder
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Function1
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> K
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> KeyValueGroupedDataset
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Long
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Nothing
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Object
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Predef
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> SparkSession
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> String
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> T
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> TraversableOnce
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Tuple2
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> U
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> Unit
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> WordCount
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> apache
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> appName
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> as
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> builder
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> com
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> count
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> counts
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> data
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> flatMap
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> getOrCreate
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> groupByKey
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> groupedwords
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> implicits
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> master
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> newStringEncoder
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> org
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> package
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> read
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> refArrayOps
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> scala
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> show
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> spark
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> sparkSession
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> sparkapp
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> split
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> sql
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> test
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> text
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> toLowerCase
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> value
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> wc
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> words
+product stamps:
+4 items
+/home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount$$anonfun$1.class -> lastModified(1493627597000)
+/home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount$$anonfun$2.class -> lastModified(1493627597000)
+/home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount$.class -> lastModified(1493627597000)
+/home/siva/workspace/scala-ws/Spark2App/target/scala-2.11/classes/com/sparkapp/test/wc/WordCount.class -> lastModified(1493627597000)
+source stamps:
+1 items
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> hash(485af259078b047d1bb204455ab01f19f9d7f5e1)
+binary stamps:
+4 items
+/home/siva/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/home/siva/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/home/siva/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1485538302000)
+class names:
+4 items
+/home/siva/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.Encoder
+/home/siva/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.SparkSession$
+/home/siva/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Tuple2
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwj6e+0AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwub/Q6HQABm5vdGlmeXNxAH4ADFUGC410AAR3YWl0c3EAfgAMMZlvy3QADSRhc0luc3RhbmNlT2ZzcQB+AAzpdyGjdAAGZXF1YWxzc3EAfgAM8WNhDnQADGFzSW5zdGFuY2VPZnNxAH4ADGp0rPl0AAxzeW5jaHJvbml6ZWRzcQB+AAz06TPldAANJGlzSW5zdGFuY2VPZnNxAH4ADP5IAdV0AARtYWluc3EAfgAMNNL4AHQACVdvcmRDb3VudHNxAH4ADOvQbIJ0AAlub3RpZnlBbGxzcQB+AAw2UmBgdAAMaXNJbnN0YW5jZU9mc3EAfgAM1TzRpnQAAj09c3EAfgAMG8qNbXQABWNsb25lc3EAfgAMUW+N6HQACHRvU3RyaW5nc3EAfgAMQcVA23QAAiE9c3EAfgAMYdWgYHQACGdldENsYXNzc3EAfgAMuSo7MHQAAm5lc3EAfgAMqCGa5XQAAmVxc3EAfgAMjvKIN3QAAiMjc3EAfgAMTCSQqHQACGZpbmFsaXplc3EAfgAMnsD4VnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHmNvbS5zcGFya2FwcC50ZXN0LndjLldvcmRDb3VudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAxjb20uc3BhcmthcHBzcQB+AKZ0ABFjb20uc3BhcmthcHAudGVzdHNxAH4ApnQAFGNvbS5zcGFya2FwcC50ZXN0Lndjc3EAfgCmdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbwyRIOXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEEvaG9tZS9zaXZhL3dvcmtzcGFjZS9zY2FsYS13cy9TcGFyazJBcHAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEha8lkHiwR9G7IERVqwHxn51/Xh
+external apis:
+0 items
+source infos:
+1 items
+/home/siva/workspace/scala-ws/Spark2App/src/main/scala/com/sparkapp/test/wc/WordCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8MkSDl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9ob21lL3NpdmEvd29ya3NwYWNlL3NjYWxhLXdzL1NwYXJrMkFwcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
